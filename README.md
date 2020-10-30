@@ -27,6 +27,6 @@ Luego según los tipos de los pokemones se asigna un modificador que se aplica s
 
 Así se calcula el daño hecho por un pokemón como:
 
-$daño = modificador * ataque - otroPokemon.defensa$
+***daño = modificador * ataque - otroPokemon.defensa***
 
 Gana el pokemón que inflija mayor daño al adversario. Si hay un empate, gana el que tenga mayor velocidad. 
