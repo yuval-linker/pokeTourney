@@ -6,6 +6,8 @@
 pokeTourney es un simulador de torneo en el que participan 8 pokemones elegidos al azar dentro de los
 primero 155 pokemones en la base de datos de la API [PokeAPI](https://pokeapi.co/).
 
+El formato del torneo es de eliminación directa 1 contra 1.
+
 Podras ver en consola como pelean automáticamente los distintos pokemones para saber quien será el campeón!
 
 ---
